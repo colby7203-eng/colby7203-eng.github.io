@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://colby7203-eng.github.io/balpum-link/sitemap.xml
